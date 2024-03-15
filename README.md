@@ -1,3 +1,4 @@
+#NETFLIX_Clone_HTML_CSS
 First Dive into Web Dev: Building a Netflix Clone (HTML & CSS)
 This project is my first venture into web development, recreating a simplified version of the Netflix homepage using HTML for structure and CSS for styling.
 
